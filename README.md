@@ -6,3 +6,5 @@ This program calculates the electricity bill based on given information
 - Process: Calculates and displays the average score.
 - Output: Average score.
 - Does not include input validation
+## Version 2 - Updated code with input validation
+- Now includes input validation
